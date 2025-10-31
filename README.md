@@ -89,6 +89,7 @@ Check out my project here 👉 GitHub Repo Link
 📬 Connect With Me
 
 🔗 LinkedIn
+https://www.linkedin.com/in/sree-ranganath-chippala-a51880365/
 
 🧩 Author: Sree Ranganath Chippala
 📅 Date: October 2025
