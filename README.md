@@ -34,5 +34,5 @@ It uses **classes, objects, methods, and encapsulation** to simulate a mini bank
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/bank-account-system.git
+git clone https://github.com/sreeranga-chippala/bank-account-system.git
 
