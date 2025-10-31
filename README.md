@@ -27,31 +27,56 @@ It uses **classes, objects, methods, and encapsulation** to simulate a mini bank
 - Loops and Conditionals  
 
 ---
+🚀 How to Run This Project
 
-## 🚀 How to Run
+You can run this Python project locally or online in just a few steps:
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/sreeranga-chippala/bank-account-system.git
-2.Open the folder in your code editor
-3.Run the file
+🖥️ Run Locally (Recommended)
 
-🧾 Sample Output:-
+Clone this repository to your computer:
+
+git clone https://github.com/sreeranga-chippala/bank-account-management.git
+
+
+Open the folder in your code editor (like VS Code or PyCharm):
+
+cd bank-account-management
+
+
+Run the Python file:
+
+python3 bank_account_system.py
+
+
+You’ll see:
+
 Enter the name of the person: Ram
 Enter initial balance: 1000
-
 Select the choice:
 1. Deposit
 2. Withdraw
 3. Check Balance
 4. Exit
 
-Enter your choice (1-4): 1
-Enter amount to deposit: 500
-Balance after deposit of 500.0 is 1500.0
+🌐 Run Online (Optional)
 
-Do you want to perform another operation? (yes/no): no
-Session closed. Have a great day!
+If you don’t want to install anything:
+
+Go to 👉 https://replit.com/~
+
+Create a new Python project
+
+Copy all code from bank_account_system.py
+
+Paste and click Run ✅
+
+🧩 Requirements
+
+Python 3.7 or higher
+
+Works on Windows, macOS, and Linux
+
+
 💡 What I Learned
 
 How to use classes and objects in Python
