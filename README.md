@@ -65,10 +65,15 @@ Building a realistic mini banking simulation
 🚧 Future Improvements
 
 *Add multiple user accounts
+
 *Add PIN authentication
+
 *Save data to a file or database
+
 *Add a GUI (Tkinter or PyQt)
+
 *Add transaction history
+
 📸 LinkedIn Project Post Idea
 
 🚀 Just built my first Python OOP Project — Bank Account Management System!
